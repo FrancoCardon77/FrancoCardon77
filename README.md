@@ -5,19 +5,21 @@
   <br/>
 
   <a href="https://capibara-studio.com">
-    <img src="https://img.shields.io/badge/🚀_Capibara_Studio-Ver_proyecto-c8ff00?style=for-the-badge&labelColor=111111&color=c8ff00" alt="Capibara Studio" />
+    <img src="https://img.shields.io/badge/CAPIBARA_STUDIO-capibara--studio.com-%23c8ff00?style=for-the-badge&labelColor=111111" height="36" alt="Capibara Studio" />
   </a>
 
   <br/><br/>
 
   <a href="mailto:cardonfranco@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cardonfranco@gmail.com-333?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-cardonfranco%40gmail.com-333?style=flat&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/franco-card%C3%B3n-4525a7147/">
     <img src="https://img.shields.io/badge/LinkedIn-Franco_Cardón-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://wa.me/5491159112557">
-    <img src="https://img.shields.io/badge/WhatsApp-+54_11--5911--2557-25D366?style=flat&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-%2B54_11--5911--2557-25D366?style=flat&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
