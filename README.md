@@ -9,7 +9,7 @@
 
 ## About me
 
-Backend developer with 4+ years of experience building distributed systems and microservice architectures. Currently working as **Backend Technical Lead at CFOTech**, specialized in high-performance APIs, SQL optimization, and cloud-native infrastructure on GCP.
+Backend developer with 5+ years of experience building distributed systems and microservice architectures. Currently working as **Backend Technical Lead at CFOTech**, specialized in high-performance APIs, SQL optimization, and cloud-native infrastructure on GCP.
 
 Co-founder of **Capibara Estudio**, a B2B e-commerce SaaS platform built from scratch with Java microservices, React, and AWS.
 
@@ -54,7 +54,7 @@ Co-founder of **Capibara Estudio**, a B2B e-commerce SaaS platform built from sc
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![KeyCloak](https://img.shields.io/badge/KeyCloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
+![KeyCloak](https://img.shields.io/badge/KeyCloak-4D4DTD?style=flat&logo=keycloak&logoColor=white)
 
 ---
 
