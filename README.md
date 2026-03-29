@@ -5,7 +5,7 @@
   <br/>
 
   <a href="https://capibara-studio.com">
-    <img src="https://img.shields.io/badge/CAPIBARA%20STUDIO-capibara--studio.com-c8ff00?style=for-the-badge&labelColor=111111&color=c8ff00" alt="Capibara Studio" />
+    <img src="https://raw.githubusercontent.com/FrancoCardon77/FrancoCardon77/main/capibara-badge.svg" alt="Capibara Studio" />
   </a>
 
   <br/><br/>
