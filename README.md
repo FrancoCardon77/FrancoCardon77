@@ -1,8 +1,10 @@
 <div align="center">
   <h1>Franco E. Cardón</h1>
-  <h3>Backend Technical Lead · Java / Spring Boot · GCP · Buenos Aires, Argentina</h3>
+  <h3>Backend Engineer · Java / Spring Boot · GCP · Buenos Aires, Argentina</h3>
   <a href="mailto:cardonfranco@gmail.com">cardonfranco@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/franco-cardon">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/franco-card%C3%B3n-4525a7147/">LinkedIn</a> ·
+  <a href="https://wa.me/5491159112557">WhatsApp +54 11-5911-2557</a> ·
+  <a href="https://capibara-studio.com">capibara-studio.com</a>
 </div>
 
 ---
@@ -11,7 +13,7 @@
 
 Backend developer with 5+ years of experience building distributed systems and microservice architectures. Currently working as **Backend Technical Lead at CFOTech**, specialized in high-performance APIs, SQL optimization, and cloud-native infrastructure on GCP.
 
-Co-founder of **Capibara Estudio**, a B2B e-commerce SaaS platform built from scratch with Java microservices, React, and AWS.
+Co-founder of **[Capibara Estudio](https://capibara-studio.com)**, a B2B e-commerce SaaS platform built from scratch with Java microservices, React, and AWS.
 
 ---
 
