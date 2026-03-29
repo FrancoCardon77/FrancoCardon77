@@ -1,10 +1,24 @@
 <div align="center">
   <h1>Franco E. Cardón</h1>
   <h3>Backend Engineer · Java / Spring Boot · GCP · Buenos Aires, Argentina</h3>
-  <a href="mailto:cardonfranco@gmail.com">cardonfranco@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/franco-card%C3%B3n-4525a7147/">LinkedIn</a> ·
-  <a href="https://wa.me/5491159112557">WhatsApp +54 11-5911-2557</a> ·
-  <a href="https://capibara-studio.com">capibara-studio.com</a>
+
+  <br/>
+
+  <a href="https://capibara-studio.com">
+    <img src="https://img.shields.io/badge/🚀_Capibara_Studio-Ver_proyecto-c8ff00?style=for-the-badge&labelColor=111111&color=c8ff00" alt="Capibara Studio" />
+  </a>
+
+  <br/><br/>
+
+  <a href="mailto:cardonfranco@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cardonfranco@gmail.com-333?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/franco-card%C3%B3n-4525a7147/">
+    <img src="https://img.shields.io/badge/LinkedIn-Franco_Cardón-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5491159112557">
+    <img src="https://img.shields.io/badge/WhatsApp-+54_11--5911--2557-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
 </div>
 
 ---
