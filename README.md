@@ -27,7 +27,7 @@
 
 Backend developer con 5+ años de experiencia diseñando y construyendo sistemas distribuidos y arquitecturas de microservicios. Actualmente **Referente Técnico Backend en CFOTech**, con foco en APIs de alto rendimiento, optimización SQL e infraestructura cloud-native sobre GCP.
 
-Co-fundador de **[Capibara Estudio](https://capibara-studio.com)**, plataforma SaaS B2B de e-commerce multitienda construida desde cero con microservicios Java, React y AWS.
+Co-fundador de **[Capibara Studio](https://capibara-studio.com)**, plataforma SaaS B2B de e-commerce multitienda construida junto a dos co-fundadores: arquitectura de microservicios Java, React y AWS, desde cero hasta producción.
 
 ---
 
@@ -82,7 +82,7 @@ Co-fundador de **[Capibara Estudio](https://capibara-studio.com)**, plataforma S
 | 05/2025 – Presente | Referente Técnico Backend | CFOTech |
 | 10/2024 – 05/2025 | Desarrollador Fullstack Java/React | Darwoft |
 | 01/2024 – 09/2024 | Desarrollador Fullstack Java/React | AYI Group |
-| 2023 – Presente | Co-Fundador & Desarrollador Fullstack | Capibara Estudio |
+| 2023 – Presente | Co-Fundador & Desarrollador Fullstack | Capibara Studio |
 | 01/2021 – 12/2023 | Desarrollador Backend Java | IT Patagonia |
 
 ---
