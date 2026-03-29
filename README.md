@@ -5,7 +5,7 @@
   <br/>
 
   <a href="https://capibara-studio.com">
-    <img src="https://raw.githubusercontent.com/FrancoCardon77/FrancoCardon77/main/capibara-badge.svg" alt="Capibara Studio" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05001a,50:1a0035,100:0d0050&height=70&text=CAPIBARA%20STUDIO&fontColor=e0b0ff&fontSize=24&desc=capibara-studio.com%20%E2%86%97&descSize=14&descAlignY=75&stroke=b400ff&strokeWidth=2" width="420" alt="Capibara Studio" />
   </a>
 
   <br/><br/>
